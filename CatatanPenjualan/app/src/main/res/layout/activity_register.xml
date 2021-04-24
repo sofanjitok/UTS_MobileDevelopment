@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/far">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_above="@id/appName"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:layout_marginBottom="@dimen/normal"
+        android:background="@drawable/background_light"
+        android:src="@drawable/ic_store" />
+
+    <TextView
+        android:id="@+id/appName"
+        android:textSize="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/high"
+        android:fontFamily="@font/poppinsbold"
+        android:layout_above="@id/etRegisterUsername"/>
+
+    <EditText
+        android:id="@+id/etRegisterUsername"
+        android:hint="Username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_light"
+        android:layout_centerInParent="true"/>
+
+    <EditText
+        android:id="@+id/etRegisterEmail"
+        android:hint="Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etRegisterUsername"
+        android:layout_marginTop="@dimen/normal"
+        android:background="@drawable/background_light"/>
+
+    <EditText
+        android:id="@+id/etRegisterHp"
+        android:hint="No Telepon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etRegisterEmail"
+        android:layout_marginTop="@dimen/normal"
+        android:background="@drawable/background_light"/>
+
+    <EditText
+        android:id="@+id/etRegisterPassword"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_light"
+        android:layout_marginTop="@dimen/normal"
+        android:layout_below="@id/etRegisterHp"/>
+
+    <Button
+        android:id="@+id/btRegister"
+        android:layout_width="159dp"
+        android:layout_height="38dp"
+        android:layout_below="@id/etRegisterPassword"
+        android:layout_alignEnd="@id/etRegisterPassword"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="102dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="108dp"
+        android:background="@drawable/background_dark"
+        android:text="List"
+        android:textColor="@color/colorFree" />
+
+    <TextView
+        android:id="@+id/goLogin"
+        android:layout_width="307dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btRegister"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="21dp"
+        android:fontFamily="@font/poppinsbold"
+        android:hint="Already Have Account?"
+        android:padding="@dimen/normal" />
+
+</RelativeLayout>

@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_barang.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\menu\\menu_barang.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon_foreground.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_icon_foreground.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_menu.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_detail_report.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\fragment_detail_report.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_report.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_report.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\font_poppinsmedium.ttf.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_dark_circle.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\background_dark_circle.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_black.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_more_black.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon_background.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_icon_background.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_goods.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_goods.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_add_white.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_dark.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\background_dark.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_light.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\background_light.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\font_poppinsbold.ttf.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_store.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_keranjang.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\item_keranjang.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart_light.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_cart_light.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_white.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_delete_white.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_barang.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\activity_add_barang.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_data_barang.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\item_data_barang.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_widgets_white.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_widgets_white.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_report.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\item_report.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_penjualan_barang.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\activity_penjualan_barang.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_restore_black.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_restore_black.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_light_circle.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\drawable\\background_light_circle.xml"
+    },
+    {
+        "merged": "E:\\androidUTS\\CatatanPenjualan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_barang.xml.flat",
+        "source": "E:\\androidUTS\\CatatanPenjualan\\app\\src\\main\\res\\layout\\activity_data_barang.xml"
+    }
+]

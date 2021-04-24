@@ -1,0 +1,2 @@
+id/rdev/sofanji180900986a/BuildConfig.java
+ id.rdev.sofanji180900986a.BuildConfig
